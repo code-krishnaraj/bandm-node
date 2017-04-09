@@ -1,0 +1,32 @@
+{
+  "name": "cam",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@codebase.qburst.com:krishnaraj/cam.git"
+  },
+  "dependencies": {
+    "body-parser": "^1.15.1",
+    "bunyan": "^1.8.1",
+    "connect-flash": "^0.1.1",
+    "cookie-parser": "^1.4.1",
+    "errorhandler": "^1.4.3",
+    "express": "^4.13.4",
+    "express-session": "^1.13.0",
+    "method-override": "^2.3.5",
+    "morgan": "^1.7.0",
+    "node-config-manager": "^1.0.4",
+    "passport": "^0.3.2",
+    "passport-google-oauth": "^1.0.0",
+    "q": "^1.4.1",
+    "sequelize": "^3.30.3",
+    "serve-favicon": "^2.3.0"
+  },
+  "author": "krishnaraj",
+  "license": "ISC"
+}

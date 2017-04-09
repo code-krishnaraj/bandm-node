@@ -1,0 +1,8 @@
+{
+  "STATUS_SUCCESS_CODE": 200,
+  "STATUS_SUCCESS_MESSAGE" : "success",
+  "STATUS_ERROR_BAD_REQUEST" : 401,
+  "STATUS_ERROR_BAD_REQUEST_MESSAGE" : "Bad request",
+  "STATUS_ERROR_UN_AUTHORIZED_CODE" : 401,
+  "STATUS_ERROR_UN_AUTHORIZED_MESSAGE": "You are not authorized to access this endpoint. Please login"
+}

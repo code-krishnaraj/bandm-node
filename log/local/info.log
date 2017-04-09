@@ -1,0 +1,1 @@
+{"name":"apiLog","hostname":"user-Inspiron-5558","pid":3952,"level":30,"msg":"API server is listening on port 9000","time":"2016-11-15T14:45:14.549Z","src":{"file":"/home/user/node/cam/src/server/server.js","line":55,"func":"listen"},"v":0}

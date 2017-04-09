@@ -1,0 +1,23 @@
+{
+  "name":"apiLog",
+  "src":true,
+  "streams": [{
+    "level": "info",
+    "type": "rotating-file",
+    "path": "./log/local/info.log",
+    "period": "2d",
+    "count": 3
+  }, {
+    "level": "debug",
+    "type": "rotating-file",
+    "path": "./log/local/debug.log",
+    "period": "2d",
+    "count": 3
+  }, {
+    "level": "error",
+    "type": "rotating-file",
+    "path": "./log/local/error.log",
+    "period": "2d",
+    "count": 3
+  }]
+}
